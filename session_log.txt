@@ -1,0 +1,43 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 12/17/21, 12:37:32 PM CST
+Board Name: lick
+Marketing Name: TBD
+CpuModel Name: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz
+Total Memory (kib): 3897356
+Thread Count:  2
+Cpu Max Clock Speed (kHz):  2800000
+Version: 96.14268.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kDischarging
+Power Source: kDisconnected
+Power Time: 10 hours and 58 minutes
+Current Now (mA): 358
+Chage Now (mAh): 3486
+
+--- Battery Health ---
+Charge Full Now (mAh): 3557
+Charge Full Design (mAh): 3735
+Cycle Count: 65
+Wear Percentage: 95
+
+--- Memory Usage ---
+Total Memory (kib): 3897356
+Available Memory (kib): 1043416
+Free Memory (kib): 276728
+
+--- Cpu Usage ---
+Usage User (%): 18
+Usage System (%): 6
+Usage Free (%): 74
+Avg Temp (C): 40
+Current scaled frequency (kHz): 2404710
+
+
+--- Test Routines --- 
+
+12/17/21, 12:18:07 PM - Memory - Started
+12/17/21, 12:34:47 PM - Memory - Passed
